@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/jpfernandes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfernandes1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfernandes1&layout=compact&theme=github_dark&langscount=16&count_private=true"/>
+
 </div>
 
 <div style="display: inline_block"><br>
