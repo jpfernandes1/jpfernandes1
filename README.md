@@ -14,16 +14,17 @@
 - 😄 Pronouns: he/him;
 - ⚡ Fun fact: I've previously worked as a project analyst and a customer experience analyst;
 
+### 🔬 Stats of the Github projects
+
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=jpfernandes1&&theme=github_dark" alt="GitHub Stats"/>  
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=jpfernandes1&&theme=github_dark_dimmed" alt="GitHub Stats"/>  
    <br/><br/>    
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=jpfernandes1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache=o"/>
-  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=jpfernandes1&layout=compact&theme=github_dark&langscount=16&count_private=true&cache=o"/>
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=jpfernandes1&&theme=github_dark_dimmed" alt="jpfernandes GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=jpfernandes1&&theme=github_dark_dimmed"  alt="jpfernandes GitHub Top Languages" />
 </div>
 <br clear="both">
 
